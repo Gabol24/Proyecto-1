@@ -1,0 +1,21 @@
+C:\Users\naoas\OneDrive\Documentos\Progra III\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\naoas\OneDrive\Documentos\Progra III\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\naoas\OneDrive\Documentos\Progra III\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\naoas\OneDrive\Documentos\Progra III\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\naoas\OneDrive\Documentos\Progra III\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\naoas\OneDrive\Documentos\Progra III\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\naoas\OneDrive\Documentos\Progra III\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\Msi laptop\Downloads\Proyecto1 (2)\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\Msi laptop\Downloads\Proyecto1 (2)\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\Msi laptop\Downloads\Proyecto1 (2)\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\Msi laptop\Downloads\Proyecto1 (2)\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\Msi laptop\Downloads\Proyecto1 (2)\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\Msi laptop\Downloads\Proyecto1 (2)\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\Msi laptop\Downloads\Proyecto1 (2)\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\andre\source\repos\Casilisto\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\andre\source\repos\Casilisto\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\andre\source\repos\Casilisto\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\andre\source\repos\Casilisto\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Casilisto\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Casilisto\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\andre\source\repos\Casilisto\Proyecto1\obj\Debug\Proyecto1.pdb
